@@ -1,5 +1,5 @@
 # RbxStats C++ API Client 
-hi
+
 
 A C++ client library for interacting with the [RbxStats API](https://api.rbxstats.xyz). This library provides a convenient interface to access various endpoints of the RbxStats API, including offsets, exploits, and game information.
 
